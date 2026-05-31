@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authdetch",
+        "uuid": 7233412,
+        "checksum": "raws32"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
